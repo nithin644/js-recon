@@ -27,9 +27,7 @@ All results are beautifully rendered in the terminal using **Rich** and saved lo
 3. ✂️ Trims large files for efficient processing  
 4. 🤖 Sends code to OpenAI API for analysis  
 5. 📑 Receives structured Markdown report  
-6. 🎨 Displays colorful output in terminal  
-7. 💾 Saves report automatically in `/reports` folder  
-
+6. 🎨 Displays colorful output in terminal 
 ---
 
 ## 🧰 Installation
@@ -47,12 +45,13 @@ python3 js-recon.py -u https://example.com/app.js
 ## 🧾 Report Structure
 
 Each report contains:
-📊 Summary
-🖧 Endpoints Discovered
-🔑 Secrets & Keys
-🛡️ Auth & Logic Analysis
-⚠️ Potential Vulnerabilities
-📝 Interesting Notes
+
+- 📊 **Summary**
+- 🖧 **Endpoints Discovered**
+- 🔑 **Secrets & Keys**
+- 🛡️ **Auth & Logic Analysis**
+- ⚠️ **Potential Vulnerabilities**
+- 📝 **Interesting Notes**
 
 ## Demo 
 <video src="https://github.com/user-attachments/assets/46fb8c9d-691c-4a17-bd15-0825b1273054" controls width="600"></video>
