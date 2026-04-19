@@ -35,7 +35,7 @@ All results are beautifully rendered in the terminal using **Rich** and saved lo
 ### 📌 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/nithin644/js-recon.git
+git clone https://github.com/nithin644/js-recon.git
 cd js-recon
 pip install requests rich
  Set OpenAI API Key
