@@ -7,7 +7,7 @@ It fetches JavaScript files, analyzes them from an attacker’s perspective, and
 
 ## 🔍 About the Tool
 
-JS Recon Pro helps you:
+JS Recon helps you:
 
 - 🕵️ Discover hidden or undocumented API endpoints  
 - 🔑 Detect hardcoded secrets, API keys, and tokens  
@@ -37,7 +37,7 @@ All results are beautifully rendered in the terminal using **Rich** and saved lo
 ```bash
 git clone https://github.com/nithin644/js-recon.git
 cd js-recon
-pip install requests rich
+pip3 install -r requirements.txt
  Set OpenAI API Key
 python3 js-recon.py -u https://example.com/app.js
 ```
