@@ -42,6 +42,18 @@ cd js-recon
 pip install requests rich
  Set OpenAI API Key
 python3 js-recon.py -u https://example.com/app.js
-```bash
+```
 
-#### OUTPUT
+## 🧾 Report Structure
+
+Each report contains:
+
+📊 Summary
+🖧 Endpoints Discovered
+🔑 Secrets & Keys
+🛡️ Auth & Logic Analysis
+⚠️ Potential Vulnerabilities
+📝 Interesting Notes
+
+## Demo 
+<video src="https://github.com/user-attachments/assets/46fb8c9d-691c-4a17-bd15-0825b1273054" controls width="600"></video>
