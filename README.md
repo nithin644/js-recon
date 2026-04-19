@@ -41,4 +41,7 @@ git clone [https://github.com/nithin644/js-recon.git
 cd js-recon
 pip install requests rich
  Set OpenAI API Key
-python3 js-recon.py -u https://example.com/app.js '''
+python3 js-recon.py -u https://example.com/app.js
+```bash
+
+#### OUTPUT
