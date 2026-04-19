@@ -47,7 +47,6 @@ python3 js-recon.py -u https://example.com/app.js
 ## 🧾 Report Structure
 
 Each report contains:
-
 📊 Summary
 🖧 Endpoints Discovered
 🔑 Secrets & Keys
