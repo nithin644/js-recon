@@ -1,4 +1,4 @@
-# 🚀 JS Recon Tool
+# 🚀  AI - JS Recon Tool
 
 A powerful **AI-assisted JavaScript reconnaissance CLI tool** designed for bug hunters and security researchers.  
 It fetches JavaScript files, analyzes them from an attacker’s perspective, and generates structured security reports using AI.
